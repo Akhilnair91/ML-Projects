@@ -1,1 +1,1 @@
-## Linear Regression  - Prediction of the Yearly Monthly Spents for Ecommeerce Customers
+## Linear Regression  - Prediction of the Monthly Spents for Ecommeerce Customers
